@@ -351,32 +351,6 @@ npm test
 }
 ```
 
-## 🤝 Contributing
-
-We welcome contributions to BasicBot! Please follow these steps:
-
-1. **Fork the repository**
-2. **Create a feature branch**: `git checkout -b feature/your-feature`
-3. **Make your changes** following our coding standards
-4. **Add tests** for new functionality
-5. **Run evaluation suite** to ensure performance
-6. **Submit a pull request**
-
-### Development Guidelines
-
-- **Code Style**: Follow PEP 8 for Python, ESLint for JavaScript
-- **Documentation**: Update README and docstrings for new features
-- **Testing**: Maintain test coverage above 80%
-- **Performance**: Ensure changes don't degrade system performance
-
-### Adding New Features
-
-1. **Discuss** the feature in an issue first
-2. **Design** the API changes required
-3. **Implement** following established patterns
-4. **Test thoroughly** with the evaluation framework
-5. **Document** the new functionality
-
 ## 📊 Performance & Benchmarks
 
 ### Typical Performance
